@@ -538,7 +538,7 @@ https://isotropic.co/tool/hex-color-to-css-filter/*/
 	bottom: 0;
 	left: 0;
 	z-index: 999;
-	width: 100%;
+	width: 100vw;
 	height: var(--header-height);
 	background-color: var(--second-color);
 	padding: 1rem;
