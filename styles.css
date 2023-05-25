@@ -288,7 +288,7 @@ precedido por el primero y ambos comparten un padre común.
 	position: fixed;
 	left:0;
 	bottom: var(--header-height);
-	width: 100%;
+	width: 100vw;
 	background-color: var(--second-color);
 	display: flex;
 	flex-direction: column;
